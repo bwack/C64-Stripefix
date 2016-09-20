@@ -1,0 +1,29 @@
+Partlist exported from C:/Mine Dokumenter/eagle/projects/C64 StripeFix/c64-stripefix-vic2brd.sch at 21.09.2015 20:09:52
+
+Assembly variant: 
+
+Qty Value        Device       Parts             
+-1 3  1N4148W 70-007-27     1N4148W      D1                
+-1 3  74LS14D 73-930-71     74LS14D      IC2               
+-1 3  78L05F  30-018-604     78L05F       IC3               
+
+-2 6  2k      60-597-12     R-EU_R0603   R13, R15          
+-1 3   3k3    60-597-17      R-EU_R0603   R2                
+-1 3   5k6    60-597-23      R-EU_R0603   R3                
+-1 3   68R    60-596-77      R-EU_R0603   R4                
+-4 12 150R    60-596-85     R-EU_R0603   R7, R8, R9, R10   
+-1 3  220R    60-596-89     R-EU_R0603   R5                
+-1 3  470R    60-596-97     R-EU_R0603   R6                
+
+1 3  1k     ebay      TRIM_EU-TC33 R1                
+2 6  220R   ebay      TRIM_EU-TC33 R14, R16          
+
+-3 9  BC847    71-009-76    BC847        T1, T2, T3        
+
+-1 3  22uH     10-482-86 (add to Eagle!!!)    L-EUL2012C   L1                
+
+-1 3  22uF     65-721-21    C-EUC1206    C11               
+-2 6  47pF     65-754-72    C-EUC0603    C6, C7            
+-2 6  100nF    65-200-01    C-EUC0603    C8, C10           
+-3 9  150pF    65-752-60   C-EUC0603    C2, C3, C4        
+-2 6  330pF    65-754-75   C-EUC0603    C1, C9            
